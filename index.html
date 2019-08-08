@@ -10,7 +10,7 @@
 <body>
     <div id="app">
         <p>{{title}}</p>
-        <!-- <button @click="title='Good job'">змінити текст</button> -->
+        <!-- <button @click="title='Good job'">змінити текст</button>  не працює-->
         <p :class="styleCSS">color:{{styleCSS}}</p>
         <input type="text" v-on:input="styleCSS = $event.target.value">
     </div>
