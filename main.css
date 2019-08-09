@@ -1,6 +1,7 @@
-.black{
-    background: black;
-};
-.yellow{
-    background: yellow;
+.logo{
+    font-size: 55px;
+    color: rgb(5, 167, 216);
+    animation-delay: 3s;
+    animation-duration: 10s;
+    animation-iteration-count: infinite; 
 };
