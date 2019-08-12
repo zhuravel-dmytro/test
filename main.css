@@ -1,7 +1,6 @@
 .logo{
     font-size: 55px;
     color: rgb(5, 167, 216);
-    animation-delay: 3s;
-    animation-duration: 10s;
+    animation-delay: 5s;
     animation-iteration-count: infinite; 
 };
